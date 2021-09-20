@@ -1,0 +1,7 @@
+{
+    "token": "Bot token",
+    "guildID": "ID of the guild you wish the bot to act in",
+    "channelID": "ID of the channel you wish the bot to message in",
+    "roleID": "ID of the role you wish the bot to wait for",
+    "welcomeMessage": "Message you would like the bot to welcome the user with. Note that the message will follow a mention of the user"
+}
