@@ -1,6 +1,6 @@
 # Description  
 A solution to the problem explained by reddit user /u/ethanm6 in a post in the subreddit /r/Discord_Bots  
-https://www.reddit.com/r/Discord_Bots/comments/pp5bya/i_would_like_a_bot_that_sends_a_message_to_a_text/hde2twu/  
+https://www.reddit.com/r/Discord_Bots/comments/pp5bya/i_would_like_a_bot_that_sends_a_message_to_a_text/ 
   
 # Instructions  
 Note: requires node.js 16.6 or higher, as it is using discord.js v13  
@@ -11,4 +11,4 @@ Note: requires node.js 16.6 or higher, as it is using discord.js v13
 - In CLI, enter "node index.js". After a few seconds, it would reply with "Bot online"  
 - Profit  
   
-If it doesnt work, ~~crawl into a ball and cry~~ message me on discord, you can find me here: https://discord.gg/fUUutjXXgS, currently under the username "[1M] Coob#7869" but if that doesnt work, my ID is 254360775903150083
+If it doesnt work, ~~crawl into a ball and cry~~ message me on discord, you can find me here: https://discord.gg/fUUutjXXgS, currently under the username "@[1M] Coob#7869" but if that doesnt work, my ID is 254360775903150083
